@@ -1,4 +1,4 @@
-# practicalWork2
+# PracticalWork2
  
  ## Задание с семинара
  
