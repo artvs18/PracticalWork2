@@ -24,4 +24,4 @@
 <img width="747" alt="Screenshot 2022-09-18 at 23 00 29" src="https://user-images.githubusercontent.com/59523003/190926093-66b6ab09-99fb-492d-9d58-d3b8d88f926c.png">
 
 
-### practicalWork2/practicalWork2.playground/Contents.swift - содержит исходный код программы
+### PracticalWork2/practicalWork2.playground/Contents.swift - содержит исходный код программы
